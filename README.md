@@ -1,5 +1,3 @@
-![Profile Picture](https://avatars.githubusercontent.com/your-username)
-
 ### GitHub: (https://github.com/Project-prs)
 
 **Bio:** A passionate developer with experience in full stack developer. I enjoy working on app development.
