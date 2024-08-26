@@ -1,11 +1,11 @@
 ![Profile Picture](https://avatars.githubusercontent.com/your-username)
 
-### GitHub: [@your-username](https://github.com/prasanth)
+### GitHub: (https://github.com/Project-prs)
 
 **Bio:** A passionate developer with experience in full stack developer. I enjoy working on app development.
 
 **Location:** Pudukkottai , Tamilnadu  
-**Email:** [prasanthprojects001@gmail.com](mailto:your.email@example.com)
+**Email:** prasanthprojects001@gmail.com
 
 ---
 
