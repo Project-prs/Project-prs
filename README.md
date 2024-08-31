@@ -57,9 +57,9 @@
 ---
 
 ## 🤝 Connect with Me
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
-- [![Personal Website](https://img.shields.io/badge/Website-%23000000.svg?style=flat-square&logo=google-chrome&logoColor=white)](https://your-website.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/prasanth-m-951287287)
+- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white)]()
+- [![Personal Website](https://img.shields.io/badge/Website-%23000000.svg?style=flat-square&logo=google-chrome&logoColor=white)]()
 
 ---
 
